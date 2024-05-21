@@ -9,8 +9,7 @@ Az alábbi ábrán egy magnókazetta és a lejátszásához szükséges magnetof
 Magnókazetta egy magnetofonban. Jól láthatóak a lejátszáshoz, a rögzítéshez és a szalagtovábbításhoz szükséges alkatrészek
 
 ---- ALKATRÉSZEK FELSOROLÁSA ----
-Szalagtovábbító görgő
-Lejátszó- és rögzítőfej
-Törlőfej
-A kazetta pozícióját biztosító szegecsek
-Csévélőmotor
+
+
+
+
